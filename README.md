@@ -97,6 +97,10 @@ blood-bank-project/
    ```
    The frontend will run on http://localhost:3000
 
+
+   ![WhatsApp Image 2025-08-21 at 00 39 34_697e0ac9](https://github.com/user-attachments/assets/0ddf54ae-3261-40d8-a044-0dba2ff74c09)
+
+
 ## 🌐 API Endpoints
 
 ### Authentication
