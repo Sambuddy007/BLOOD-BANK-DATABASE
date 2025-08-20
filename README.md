@@ -159,6 +159,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Samyak Ramteke** - [GitHub Profile](https://github.com/Sambuddy007)
+- **Email**: ramtekesamyak007@gmail.com
 
 ## 🙏 Acknowledgments
 
